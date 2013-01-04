@@ -1,0 +1,13 @@
+http://feeds1.nytimes.com/nyt/rss/Sports
+http://rss.cnn.com/rss/si_topstories.rss
+http://hosted.ap.org/lineups/SPORTSHEADS-rss_2.0.xml?SITE=VABRM&SECTION=HOME
+http://feeds.feedburner.com/time/gadgetoftheweek
+http://www.npr.org/rss/rss.php?id=1019
+http://feeds.nytimes.com/nyt/rss/Technology
+http://feeds.wired.com/wired/index
+http://www.techlearning.com/RSS
+http://rss.cnn.com/rss/cnn_topstories.rss
+http://feeds.nytimes.com/nyt/rss/HomePage
+http://hosted.ap.org/lineups/USHEADS-rss_2.0.xml?SITE=RANDOM&SECTION=HOME
+http://rssfeeds.usatoday.com/usatoday-NewsTopStories
+http://www.npr.org/rss/rss.php?id=1001
